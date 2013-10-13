@@ -1,0 +1,1 @@
+Some simple one liners to push metrics to a graphite server.  Run from cron every minute.
